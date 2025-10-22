@@ -188,9 +188,8 @@ class EjemploFuncionCostosa {
 
 }
 
-// Crea las clases adicionales que sean necesarias
-// (D) ... 
-//
+// Crea las clases adicionales que sean necesarias.
+// (D) ...
 
 class HebraFuncionDistCiclica extends Thread {
     int miId, numHebras;
